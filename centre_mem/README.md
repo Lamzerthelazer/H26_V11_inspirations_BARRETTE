@@ -1,7 +1,7 @@
 # Détours rencontres urbaines
 ![affiche](photo/affiche_exposition.jpg)
 ## Lieu de l'exposition
-![moi devant l'exposition](photo/moi_affiche.jpg)
+![moi devant l'exposition](photo/moi_affiche.jpg)   
 L'exposition était situé au entre des mémoires montréalaises.
 
 ## Type d'exposition
