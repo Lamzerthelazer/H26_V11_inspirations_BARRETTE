@@ -62,5 +62,5 @@ Dans mes créations, je veux absolument mettre quelque chose pour que les gens n
 
 ## Références
 - prise de photos: Liam Barrette et Rosalia Baldassarre   
-- https://memmtl.ca/programmation/detours   
-- https://urbania.ca/
+- [mem](https://memmtl.ca/programmation/detours)   
+- [urbania](https://urbania.ca/)
