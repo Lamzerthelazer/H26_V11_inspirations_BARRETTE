@@ -2,19 +2,19 @@
 ![affiche](photo/affiche_exposition.jpg)
 ## Lieu de l'exposition
 ![moi devant l'exposition](photo/moi_affiche.jpg)   
-L'exposition était situé au entre des mémoires montréalaises.
+L'exposition était situé au **centre des mémoires montréalaises.**
 
 ## Type d'exposition
 C'est une exposition temporaire qui est en vigueur depuis Octobre 2023 et qui termine en Janvier 2027.
 
 ## Date de ma visite
-J'ai visité l'exposition le 3 Mars 2026.
+J'ai visité l'exposition le **3 Mars 2026.**
 
 ## Titre du dispositif
-Le dispositif n'a pas de nom mais la personne qui est mise en valeur dans la vidéo s'appelle Lucie Hérard.
+Le dispositif n'a pas de nom mais la personne qui est mise en valeur dans la vidéo s'appelle **Lucie Hérard.**
 ![vue d'ensemble](photo/vue_ensemble.jpg)
 ## Nom de la firme
-Le centre des mémoires montréalaises a mis cette exposition en place grace à la firme URBANIA.
+Le centre des mémoires montréalaises a mis cette exposition en place grace à la firme **URBANIA.**
 
 ## Année de réalisation
 l'exposition a été réalisé en 2023.
