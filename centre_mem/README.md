@@ -1,8 +1,9 @@
 # Détours rencontres urbaines
 ![affiche](photo/affiche_exposition.jpg)
 ## Lieu de l'exposition
-L'exposition était situé au entre des mémoires montréalaises.
 ![moi devant l'exposition](photo/moi_affiche.jpg)
+L'exposition était situé au entre des mémoires montréalaises.
+
 ## Type d'exposition
 C'est une exposition temporaire qui est en vigueur depuis Octobre 2023 et qui termine en Janvier 2027.
 
