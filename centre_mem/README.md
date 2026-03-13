@@ -61,6 +61,6 @@ J'ai particulièrement aimé le fait que pour pouvoir tester le dispositif vous 
 Dans mes créations, je veux absolument mettre quelque chose pour que les gens ne restent pas debout car selon la pire chose a faire quand tu es debout est d'endurer une vidéo et ne pas bouger pendant une dizaine de minutes. Je veux que les gens soient confortable pour qu'ils puissent ce concentrer sur le dispositif au lieu de leurs inconforts.
 
 ## Références
-prise de photos: Liam Barrette et Rosalia Baldassarre   
-https://memmtl.ca/programmation/detours   
-https://urbania.ca/
+- prise de photos: Liam Barrette et Rosalia Baldassarre   
+- https://memmtl.ca/programmation/detours   
+- https://urbania.ca/
