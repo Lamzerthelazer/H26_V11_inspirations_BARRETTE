@@ -20,9 +20,10 @@ Le centre des mémoires montréalaises a mis cette exposition en place grace à 
 l'exposition a été réalisé en 2023.
 
 ## Descriptif du dispositif
+![Lucie Hérard](photo/tv_vitre.jpg)
 L'exposition que j'ai choisi parle d'une dame qui s'appelle Lucie Hérard, qui habite a Montréal et qui adore partager sa passion qui est de faire pousser des bananiers à Montréal.
 Dans la capsule, elle explique comment faire pousser des bananiers a changé sa perspective sur la vie et sur son quartier. Selon elle tout le monde devrait avoir un bananier a la maison.
-![Lucie Hérard](photo/tv_vitre.jpg)
+
 ## Type d'installation
 c'est une installation immersive selon moi, car les vitres jaunes, la lumière au plafond et les écouteurs m'ont vraiment permis d'entrer dans son monde avec elle.
 
