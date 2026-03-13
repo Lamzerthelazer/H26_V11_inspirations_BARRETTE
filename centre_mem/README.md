@@ -38,14 +38,14 @@ Pour réaliser ce dispositif, il a fallu;
 - une télévision
 - une lumière au plafond qui diffuse une lueure jaune
 - une base de métal d'environ deux mètres cubes avec des vitres jaune de chaque coté et au dessus
-- la console électronique qui permet de choisir la langue
+- la console électronique qui permet de choisir la langue   
 ![console](photo/console.jpg)
 ## Éléments nécessaires à la mise en exposition
 Les éléments nécessaires étaient;
 - un grand bras relié au plafond qui tiens la télévision
 - un fil qui relie la télévision et qui se rend au plafond
 - deux tabourets
-- un tapis
+- un tapis   
 ![bras tv](photo/bras_tv.jpg)
 ## Expérience vécue
 J'ai du me pencher pour pouvoir m'installer sur un tabourets, pour moi c'était une touche d'immersion car ça m'a fait imaginé que je passais sous un bananier. une fois en dessous je regarde autour de moi et tout est jaune, comme si j'étais une banane j'ai enfilé les écouteurs et j'ai commencé le visionnage. La lumière au plafond me faisait penser au soleil, je me croyais vraiment en plein été.
