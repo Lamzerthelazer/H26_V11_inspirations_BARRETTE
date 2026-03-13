@@ -32,6 +32,7 @@ Selon moi la fonction de ce dispositif est de nous mettre en contexte le plus po
 
 ## mise en espace
 ![mise en espace](photo/croquis_dispositif.png)
+
 ## Composantes et techniques
 Pour réaliser ce dispositif, il a fallu;
 - deux paires d'écouteurs
@@ -40,6 +41,7 @@ Pour réaliser ce dispositif, il a fallu;
 - une base de métal d'environ deux mètres cubes avec des vitres jaune de chaque coté et au dessus
 - la console électronique qui permet de choisir la langue   
 ![console](photo/console.jpg)
+
 ## Éléments nécessaires à la mise en exposition
 Les éléments nécessaires étaient;
 - un grand bras relié au plafond qui tiens la télévision
@@ -47,9 +49,11 @@ Les éléments nécessaires étaient;
 - deux tabourets
 - un tapis   
 ![bras tv](photo/bras_tv.jpg)
+
 ## Expérience vécue
 J'ai du me pencher pour pouvoir m'installer sur un tabourets, pour moi c'était une touche d'immersion car ça m'a fait imaginé que je passais sous un bananier. une fois en dessous je regarde autour de moi et tout est jaune, comme si j'étais une banane j'ai enfilé les écouteurs et j'ai commencé le visionnage. La lumière au plafond me faisait penser au soleil, je me croyais vraiment en plein été.
 ![expérience](photo/posture_visiteur.jpg)
+
 ## Ce qui m'a plu
 J'ai particulièrement aimé le fait que pour pouvoir tester le dispositif vous n'avez pas le choix de vous plonger dans la vie de Lucie et selon moi c'est une bonne manière de transmettre l'émotion d'une manière omnisciente. Le fait d'être plongé dans un environnement familier a celui de la vidéo donne l'impression que je suis avec Lucie dans son jardin sous un de ses bananiers.
 
@@ -57,3 +61,6 @@ J'ai particulièrement aimé le fait que pour pouvoir tester le dispositif vous 
 Dans mes créations, je veux absolument mettre quelque chose pour que les gens ne restent pas debout car selon la pire chose a faire quand tu es debout est d'endurer une vidéo et ne pas bouger pendant une dizaine de minutes. Je veux que les gens soient confortable pour qu'ils puissent ce concentrer sur le dispositif au lieu de leurs inconforts.
 
 ## Références
+prise de photos: Liam Barrette et Rosalia Baldassarre
+https://memmtl.ca/programmation/detours
+https://urbania.ca/
