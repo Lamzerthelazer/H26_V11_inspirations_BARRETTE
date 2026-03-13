@@ -1,5 +1,4 @@
 # Détours rencontres urbaines
----
 ## Lieu de l'exposition
 L'exposition était situé au entre des mémoires montréalaises.
 ---
