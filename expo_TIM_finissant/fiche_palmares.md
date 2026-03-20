@@ -9,25 +9,25 @@ Quand je suis entré dans le studio une des premières choses que j'ai remarqué
 ## 2. Quand les yeux se croisent
 ## Crée par;
 Edelwyn Ledru, Jade Hébert, Félix Lavoie, Patrica Nassif et Manel Yaya
-![vue d'ensemble](media/plan_yeux.jpeg)
+![vue d'ensemble](media/plan_yeux.jpeg)https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/    
 
 ## 3. Symbiose
 ## Crée par;
 Yannick Chamberland, Ryan Dufault, Benjamin Ferland et Walid Cheour
-![vue d'ensemble](media/plan_symbiose.webp)
+![vue d'ensemble](media/plan_symbiose.webp)https://les-chimistes.github.io/symbiose/#/   
 
 ## 4. Arbre en face
 ## Crée par;
 Rafaël Angon Dubé, Mikaël Arseneau, Alexandre Gendron, Mathieu Willett et Matis Ghariani
-![vue d'ensemble](media/plan_arbre.jpg)
+![vue d'ensemble](media/plan_arbre.jpg)https://mammouths.github.io/projet/#/   
 
 ## 5. Océan rouge
 ## Crée par; 
 Amira Tounekti et Kristy Moussally
-![vue d'ensemble](media/plan_ocean.png)
+![vue d'ensemble](media/plan_ocean.png)https://deux-intelligence.github.io/deux-neurones/#/    
 
 ## 6. Mission décollage
 ## Crée par;
 Justin Montpetit, Ahmed Kaïssoumi, Radhouane Kordan, Jade Saloumi et Thearylou Lach
-![vue d'ensemble](media/plan_mission.png)
+![vue d'ensemble](media/plan_mission.png)https://o-i-g-n-o-n.github.io/Mission-decollage/#/   
 
