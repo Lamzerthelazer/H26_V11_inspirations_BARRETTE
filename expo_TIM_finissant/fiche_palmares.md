@@ -11,6 +11,8 @@ Quand je suis entré dans le studio une des premières choses que j'ai remarqué
 Edelwyn Ledru, Jade Hébert, Félix Lavoie, Patrica Nassif et Manel Yaya
 ![vue d'ensemble](media/plan_yeux.jpeg)https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/    
 
+J'ai été attiré par ce projet car le mélange de nature et de technologie était intéressant. Une fois dans le cercle au sol, je regarde devant moi et je vois des yeux de plusieurs types d'animaux sur les écrans, soudainement j'apperçois un regard et je remarque rapidement que c'est le miens. j'ai aimé le fait que je puisse intéragir avec ce qui se trouve devant moi sans avoir à le toucher. Selon moi, les effets sonores étaient la cerise sur le gateau, je me sentais vraiment immergé.
+
 ## 3. Symbiose
 ## Crée par;
 Yannick Chamberland, Ryan Dufault, Benjamin Ferland et Walid Cheour
