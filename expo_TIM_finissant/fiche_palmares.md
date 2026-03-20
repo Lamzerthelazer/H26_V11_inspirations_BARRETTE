@@ -14,7 +14,7 @@ Edelwyn Ledru, Jade Hébert, Félix Lavoie, Patrica Nassif et Manel Yaya
 ## 3. Symbiose
 ## Crée par;
 Yannick Chamberland, Ryan Dufault, Benjamin Ferland et Walid Cheour
-![vue d'ensemble](media/plan_symbiose.png)
+![vue d'ensemble](media/plan_symbiose.webp)
 
 ## 4. Arbre en face
 ## Crée par;
