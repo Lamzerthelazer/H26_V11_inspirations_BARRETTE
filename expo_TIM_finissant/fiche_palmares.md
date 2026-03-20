@@ -9,7 +9,7 @@ Quand je suis entré dans le studio une des premières choses que j'ai remarqué
 ## 2. Quand les yeux se croisent
 ## Crée par;
 Edelwyn Ledru, Jade Hébert, Félix Lavoie, Patrica Nassif et Manel Yaya
-![vue d'ensemble](media/plan_yeux.png)
+![vue d'ensemble](media/plan_yeux.jpeg)
 
 ## 3. Symbiose
 ## Crée par;
@@ -19,7 +19,7 @@ Yannick Chamberland, Ryan Dufault, Benjamin Ferland et Walid Cheour
 ## 4. Arbre en face
 ## Crée par;
 Rafaël Angon Dubé, Mikaël Arseneau, Alexandre Gendron, Mathieu Willett et Matis Ghariani
-![vue d'ensemble](media/plan_arbre.png)
+![vue d'ensemble](media/plan_arbre.jpg)
 
 ## 5. Océan rouge
 ## Crée par; 
