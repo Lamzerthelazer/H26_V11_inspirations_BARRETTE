@@ -39,5 +39,7 @@ J'ai trouvé le coté esthétique incroyable, j'ai aimé la forme de hublot dans
 Justin Montpetit, Ahmed Kaïssoumi, Radhouane Kordan, Jade Saloumi et Thearylou Lach
 ![vue d'ensemble](media/plan_mission.png)https://o-i-g-n-o-n.github.io/Mission-decollage/#/   
 
-Personnellement j'ai trouvé que c'était un bon concept mais je n'arrivais juste pas a comprendre comment jouer sans faire exploser mon vaisseau dès le début.
+Personnellement j'ai trouvé que c'était un bon concept mais je n'arrivais juste pas a comprendre comment jouer sans faire exploser mon vaisseau dès le début.    
+## Information rechrché
+Selon moi si il y a trois cours qui sont incontournables pour parvenir a faire un de ses projets sa serait, programmation car chacun des projets a besoin d'un minimum de code pour qu'ont puisse intéragir avec. Il y a aussi, le cours d'audio car un projet intéractif sans son n'est pas autant plaisant a essayer qu'un dispositif avec une banque de son. Il y a aussi le cours d'installation multimédia car c'est un cours qui nous prépare directement a intégrer du contenu multimédia.
 
