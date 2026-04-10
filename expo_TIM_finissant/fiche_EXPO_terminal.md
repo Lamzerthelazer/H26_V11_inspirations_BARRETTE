@@ -1,5 +1,5 @@
 ## Réseau vivant
-![affiche](fiche.jpg)
+![affiche](media/fiche.jpg)
 ## Collège Montmorency
 ## Type d'exposition
 L'exposition était temporaire et elle avait lieu a l'intérieur dans le grand studio
