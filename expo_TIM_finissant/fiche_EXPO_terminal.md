@@ -19,6 +19,8 @@ Terminal est un jeux qui peux acceuillir jusqu'a 6 joueurs, le but du jeu est de
 C'est une installation qui est a la fois intéractive et immersive car non seuleumemt tu as le controle sur ce qu'il se passe mais il y a des projections et des lumières au dessus de nous qui viennent nous plonger dans ce monde cybernétique.
 ## Fonction du dispositif
 ## Mise en espace
+![vue d'ensemble](media/plan_terminal.png)https://pythons-5.github.io/Terminal/#/    
+
 ## Composantes et techniques
 ## Éléments nécessaires à la mise en exposition
 ## expérience vécue
