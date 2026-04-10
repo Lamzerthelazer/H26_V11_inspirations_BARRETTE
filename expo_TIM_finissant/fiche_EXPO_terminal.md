@@ -6,7 +6,8 @@ L'exposition était temporaire et elle avait lieu a l'intérieur dans le grand s
 ## Date de ma visite
 J'ai été voir l'exposition le 17 mars 2026
 ## Titre du dispositif
-Le titre de ce dispositif est Terminal
+Le titre de ce dispositif est Terminal     
+![vue d'ensemble](media/vue_ensemble.jpg)
 ## Noms des créateurs
 Dana Saavedra-Torrano, Mégane Ranger, Ting Yung Terry Lu, Émeryk Bélisle et Elie Daher
 ## Année de réalisation
